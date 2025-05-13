@@ -1,7 +1,7 @@
 {
   "vendor": "valtech",
-  "name": "store-theme",
-  "version": "5.2.0",
+  "name": "roman-store-theme",
+  "version": "5.2.3",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -63,7 +63,7 @@
     "vtex.tab-layout": "0.x",
     "vtex.condition-layout": "2.x",
     "vtex.css-handles": "1.x",
-    "valtech.front-cookies": "1.x"
+    "valtech.roman-front-cookies": "1.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

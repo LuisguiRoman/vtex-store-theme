@@ -17,7 +17,7 @@ Desde el workspace "romanchallenge" haciendo click en el link del header que dic
 ---
 
 ## 📋 Estilos
-Los estilos aplicados se encuentran dentro del archivo `valtech.front-cookies.css`
+Los estilos aplicados se encuentran dentro del archivo `valtech.roman-front-cookies.css`
 
 ## 📋 Requisitos
 
