@@ -1,0 +1,43 @@
+
+.cookieTitle {
+  font-size: 1.5rem;
+  margin-top: 60px;
+  color: #a57979;
+}
+
+.cookieContainer{
+  margin-top: 30px;
+}
+
+.cookiePhrase {
+  font-style: italic;
+  color: #737373;
+  margin-top: 50px;
+}
+
+.luckyTitle {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.luckyNumber {
+  font-size: 1.1rem;
+  font-style: italic;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: underline;
+  margin-top: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+  .cookieTitle {
+    font-size: 1.2rem;
+  }
+  .cookiePhrase {
+    margin-top: 30px;
+    font-size: 1rem;
+  }
+  .luckyTitle{
+    margin-top: 30px;
+  }
+}

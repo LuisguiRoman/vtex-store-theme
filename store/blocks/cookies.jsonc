@@ -1,0 +1,7 @@
+{
+  "store.custom#fortune-cookies": {
+    "children": [
+      "fortune-cookies"
+    ]
+  }
+}
